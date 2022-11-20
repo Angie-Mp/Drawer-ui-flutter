@@ -1,0 +1,4 @@
+#Sat Nov 19 13:08:01 PET 2022
+base.0=/Users/mac/Documents/Certus/unidad2/sesion9/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
